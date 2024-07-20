@@ -350,9 +350,7 @@ Processes multiple aggregation pipelines within a single stage on the same set o
 #### Sample Input Documents:
 ```json
 [
-    { "_id": 1, "product
-
-": "Widget", "amount": 100 },
+    { "_id": 1, "product": "Widget", "amount": 100 },
     { "_id": 2, "product": "Widget", "amount": 200 },
     { "_id": 3, "product": "Gadget", "amount": 150 }
 ]
